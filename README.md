@@ -380,7 +380,4 @@ Issues and pull requests are welcome. Before opening a PR:
 
 ## License
 
-No license file is included yet — until one is added, all rights are
-reserved by default and others can't legally reuse this code.
-able to use and build on it freely. Happy to generate a `LICENSE` file for
-you — just say the word (and which license you'd prefer, if not MIT).
+No license file is included yet — until one is added.
