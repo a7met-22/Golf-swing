@@ -1,0 +1,2 @@
+# Only needed to run the unit test suite in tests/.
+pytest>=8.0

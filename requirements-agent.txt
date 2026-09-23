@@ -1,0 +1,7 @@
+# Golf Swing Analyst agent (agent/) — install on top of requirements.txt.
+# A CUDA GPU with ~6 GB+ VRAM is strongly recommended (4-bit quantized
+# Qwen3-4B); it will run on CPU but replies take minutes instead of seconds.
+torch>=2.2
+transformers>=4.44
+accelerate>=0.33
+bitsandbytes>=0.43

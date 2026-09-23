@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Generated data / models / videos (regenerate them, don't commit them)
+*.task
+swing_data/
+*.mp4
+*.avi
+*.mov
+preview.mp4
+output_with_dashboard.mp4
+
+# OS / editor cruft
+.DS_Store
+.idea/
+.vscode/
